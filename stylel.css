@@ -1,0 +1,40 @@
+.headerBg{
+    background: rgb(58,226,31);
+    background: linear-gradient(90deg, rgba(58,226,31,1) 0%, rgba(23,68,0,1) 49%, rgba(20,233,27,1) 100%);
+}
+
+
+.headerH1{
+    font-size: 60px;
+    padding-top: 20px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.headerH6{
+    font-size: 30px;
+   font-style: italic;
+    padding-bottom: 20PX;
+    color: white;
+    text-align: center;
+}
+
+.cardHeader{
+    font-size: 30px;
+    padding: 20px;
+    font-weight: 800;
+     color: rgb(2, 2, 90);
+     background-color: burlywood;
+     text-align: center;
+}
+
+body > div.row.justify-content-center > div > img{
+    width: 100%;
+    height: auto;
+}
+
+
+a{
+    text-decoration: none;
+}
